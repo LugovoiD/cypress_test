@@ -1,0 +1,14 @@
+{
+  "name": "cypress_tests",
+  "version": "1.0.0",
+  "description": "tests",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "author": "Luhovyi Dmytro",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^5.5.0"
+  }
+}
